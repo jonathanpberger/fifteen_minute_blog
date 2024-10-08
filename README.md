@@ -34,12 +34,6 @@ You write the failing test, the robot makes it pass! Here's how to get started:
 - ???
 - profit!
 
-
-
-
-
-
-
 🤖🤖🤖🤖🤖 Extras
 =============================
-
+- find more about sublayer on the [Github](https://github.com/sublayerapp), [website](http://sublayer.com/), or [discord](https://discord.gg/gge62VGH6U).
